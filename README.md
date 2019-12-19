@@ -64,6 +64,7 @@
 ## Τεκμηρίωση ζητουμένων
 
 ### Σύνδεσμος Παραδοτέου εργασία 2: https://asciinema.org/a/278979
+![2](https://github.com/p18myro/FINAL-REPORT/blob/master/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_2.png)
 
 
 
@@ -87,6 +88,8 @@
 ## Τεκμηρίωση ζητουμένων
 
 ### Σύνδεσμος Παραδοτέου εργασία 3: https://asciinema.org/a/281449
+![3](https://github.com/p18myro/FINAL-REPORT/blob/master/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_3.png)
+
 
 #
 
@@ -110,6 +113,8 @@
 ## Τεκμηρίωση ζητουμένων
 
 ### Σύνδεσμος Παραδοτέου εργασία 4: https://asciinema.org/a/285892
+![4](https://github.com/p18myro/FINAL-REPORT/blob/master/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_4.png)
+
 #
 # 
 # Εργασία Συμμετοχικού περιεχομένου
