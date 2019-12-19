@@ -19,7 +19,7 @@
 
 # Αποτελέσματα με λεζάντες σε ενδεικτικές οθόνες
 
-# Παραδοτέο 1
+## Παραδοτέο 1
 ### [Σύνδεσμος αποθετηρίου hci](https://github.com/p18myro/hci 'Σύνδεσμος αποθετηρίου ') 
 
 ## Εργασία 1: Set-up the main dependencies and demonstrate your base system 
@@ -73,7 +73,7 @@
 ### [Apple II](https://p18myro.github.io/gr/gallery/Apple%20II/)
 
 
-# Παραδοτέο 2
+## Παραδοτέο 2
 ### [Σύνδεσμος αποθετηρίου hci](https://github.com/p18myro/hci 'Σύνδεσμος αποθετηρίου ') 
 
 ## Εργασία 3: Become productive with a todo list
