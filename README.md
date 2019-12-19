@@ -36,7 +36,7 @@
 
 ### Τεκμηρίωση ζητουμένων
 #### Σύνδεσμος Παραδοτέου εργασία 1: https://asciinema.org/a/275434
-![1]()
+![1](https://github.com/p18myro/FINAL-REPORT/blob/master/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_1.png)
 
 
 ## Εργασία 2: Get familiar with basic commands, reading documentation and editing files
@@ -51,7 +51,7 @@
 
 ### Τεκμηρίωση ζητουμένων
 #### Σύνδεσμος Παραδοτέου εργασία 2: https://asciinema.org/a/278979
-![2]()
+![2](https://github.com/p18myro/FINAL-REPORT/blob/master/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_2.png)
 
 ## Εργασία Συμμετοχικού περιεχομένου
 ## Παραδοτέο Α
@@ -90,7 +90,7 @@
 
 ### Τεκμηρίωση ζητουμένων
 #### Σύνδεσμος Παραδοτέου εργασία 3: https://asciinema.org/a/281449
-![3]()
+![3](https://github.com/p18myro/FINAL-REPORT/blob/master/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_3.png)
 
 ## Εργασία 4: Plan your time with a calendar
   Αρχικά έγινε download και εγκτάσταση το Calcurse. Στην συνέχεια έγινε παραμετροποίηση του Calcurse.
