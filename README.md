@@ -36,6 +36,7 @@
 
 ### Τεκμηρίωση ζητουμένων
 #### [Σύνδεσμος Παραδοτέου εργασία 1](https://asciinema.org/a/275434)
+![Screenshot](ΕΡΓΑΣΙΑ_1.png)
 ![1](https://github.com/p18myro/FINAL-REPORT/blob/master/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_1.png)
 
 
